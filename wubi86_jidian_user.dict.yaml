@@ -6,9 +6,9 @@ dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
 
 
 sort: original
-  # 码表的排序方式
-  # by_weight 权重
-  # original 原始顺序
+	# 码表的排序方式
+	# by_weight 权重
+	# original 原始顺序
 
 #use_preset_vocabulary: true # 是否引入【八股文】的词频词序
 
@@ -22,3 +22,4 @@ sort: original
 
 ## 日常生活
 中饭	khqn
+不是	gijg
